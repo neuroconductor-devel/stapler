@@ -12,3 +12,8 @@ staple_test\.R$
 ^cran-comments\.md$
 staple_map\.pdf
 staple\.pdf
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
