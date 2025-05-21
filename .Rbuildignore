@@ -15,3 +15,7 @@ staple\.pdf
 ^\.github$
 ^\.DS_Store$
 ^\.*/\.DS_Store$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
